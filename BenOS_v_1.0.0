@@ -1,0 +1,21 @@
+//create variables to create new acount
+int new_name;
+int new_age;
+int new_email;
+
+//create new acount
+int main(){
+  //ask user for name
+  printf("please enter you name\n\r");
+  scanf("%d", &new_name);
+  
+  //ask user for there age
+  printf("please enter your name\n\r");
+  scanf("%d", &new_age);
+  
+  //ask user for there email addres
+  printf("please ener your email addres\n\r");
+  scanf("%d", &new_email);
+  
+  return 0;
+}
